@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**Misaki-096/Misaki-096** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**misaki-096/misaki-096** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=misaki-096)](https://github.com/anuraghazra/github-readme-stats)
